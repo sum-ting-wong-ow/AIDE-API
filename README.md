@@ -25,3 +25,9 @@ Also supports other models such as Claude 3.5 Sonnet by changing the model: "mod
 
 通过更改型号，还可支持 Claude 3.5 Sonnet 等其他型号："model": "claude-3-5-sonnet-20241022",
 
+# CREDIT
+None of this would be possible without help from "/aicg/" on 4chan: https://4chan.org/g/aicg
+
+如果没有 4chan 上“/aicg/”的帮助，这一切都不可能实现： https://4chan.org/g/aicg
+
+SOURCE: https://desuarchive.org/g/thread/104123677/#104123862

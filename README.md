@@ -1,7 +1,7 @@
 # AIDE-API
-https://aide.dev/ used as Anthropic Claude-compatible endpoint. 
+https://aide.dev/ used as Anthropic Claude-compatible endpoint. (CLAUDE 3 OPUS)
 
-https://aide.dev/ 用作与 Claude 兼容的终端。
+https://aide.dev/ 用作与 Claude 兼容的终端。(CLAUDE 3 OPUS)
 
 pip install flask
 
